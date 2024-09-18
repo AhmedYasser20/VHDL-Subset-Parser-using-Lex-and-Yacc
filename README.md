@@ -68,8 +68,3 @@ This parser implements a subset of VHDL. It supports:
 - Simple type checking
 
 It does not support full VHDL syntax or advanced features.
-
-
-## Contact
-
-[Your contact information or link to issues page]
